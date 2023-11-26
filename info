@@ -1,0 +1,309 @@
+{
+  "uuid": "79cd68b4c31dc9c4d2cca4d82c975f7a",
+  "path": "Offline/Arduino UNO HuHu tecnologies",
+  "name": "Arduino UNO HuHu tecnologies",
+  "content": "Arduino UNO extra ancho",
+  "created_at": "2023-11-19 19:03:11",
+  "updated_at": "2023-11-26 17:15:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8869d106f7051e8086036c44b7565f1c",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2c1f26d7a3ea4fd5b18e92b81f0cc531": 1,
+        "ee180ebb8a774c1c828df359787f4f74": 1,
+        "cb4055a2f4a74f3381b4acad2a86abbc": 1,
+        "f1c71784abb5440882173feb819f123f": 1,
+        "8071a704d40b404e82c0a812cc409a28": 1,
+        "6baac764081545900d527035a5806b9d": 1,
+        "17eb339750ed2e3756214c176201643d": 1,
+        "27abc73ba5033d1126fd4d36740da2a2": 1,
+        "2f5c8276f8d64010877a8d3bb97697b8": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0-7",
+          1,
+          "HDR-8X1/2.54",
+          "0-7",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "ReliaPro",
+            "Manufacturer Part": "Header2.54mm 1*8P",
+            "image": "http://image.lceda.cn/szlcsc/C49256.jpg",
+            "Supplier Part": "",
+            "puuid": "5363975b6427dff787dd00c04f1fa455",
+            "uuid": "6baac764081545900d527035a5806b9d"
+          }
+        ],
+        [
+          "8-Aref",
+          1,
+          "HDR-10X1/2.54",
+          "8-13",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "ReliaPro",
+            "Manufacturer Part": "Headers  Pins2.54mm1*10P",
+            "image": "http://image.lceda.cn/szlcsc/C57369.jpg",
+            "Supplier Part": "",
+            "puuid": "6ff3078e544561a7c799cdd7583a2457",
+            "uuid": "27abc73ba5033d1126fd4d36740da2a2"
+          }
+        ],
+        [
+          "Analogs",
+          1,
+          "HDR-6X1/2.54",
+          "A0-A1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "BOOMELE",
+            "Manufacturer Part": "Header-Male-2.54_1x6",
+            "Supplier Part": "C37208",
+            "puuid": "78b4a04eb7c6085d9b4803fe2a814984",
+            "uuid": "17eb339750ed2e3756214c176201643d"
+          }
+        ],
+        [
+          "CAPACITOR_NPOL-0805",
+          4,
+          "C805",
+          "C2,C7,C8,C9",
+          {
+            "catid": "20",
+            "description": "Non-Polarized capacitor in various packages",
+            "Contributor": "DangerousPrototype",
+            "Manufacturer Part": "?",
+            "puuid": "dad19771f8844ca6b534068aacaeee06",
+            "uuid": ""
+          }
+        ],
+        [
+          "CAPACITOR_NPOL-0805",
+          1,
+          "C805",
+          "C3",
+          {
+            "catid": "20",
+            "description": "Non-Polarized capacitor in various packages",
+            "Contributor": "DangerousPrototype",
+            "Manufacturer Part": "?",
+            "Package Display": "No",
+            "puuid": "dad19771f8844ca6b534068aacaeee06",
+            "uuid": ""
+          }
+        ],
+        [
+          "USB - Mini USB",
+          1,
+          "MINI USB",
+          "CN1",
+          {
+            "Manufacturer Part": "USB - Mini USB",
+            "link": "https://www.es.co.th/Schemetic/PDF/MUMRB05FTKN.PDF",
+            "Contributor": "suwanp",
+            "puuid": "9978224e56bb4210bed35a36cc944f8a",
+            "uuid": "8071a704d40b404e82c0a812cc409a28"
+          }
+        ],
+        [
+          "FUSEF",
+          1,
+          "1812",
+          "F1",
+          {
+            "Manufacturer Part": "?",
+            "puuid": "928e1e5a88724d78a8e96de4af4d2cc0",
+            "uuid": "f1c71784abb5440882173feb819f123f"
+          }
+        ],
+        [
+          "17-21/GHC-YR1S2/3T",
+          3,
+          "LED-0805",
+          "LED1,LED2,LED3",
+          {
+            "Supplier": "EasyEDA",
+            "Manufacturer": "EVERLIGHT",
+            "Manufacturer Part": "17-21/GHC-YR1S2/3T",
+            "Supplier Part": "E73546",
+            "puuid": "29971ab8ddfb4d2c9191f8ca6c734b2e",
+            "uuid": ""
+          }
+        ],
+        [
+          "NRF24_module_SMD",
+          1,
+          "NRF2_MODULE_SMD_PCB",
+          "MK2",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "Ashining",
+            "Manufacturer Part": "AS01-ML01S",
+            "Supplier Part": "C84802",
+            "puuid": "d576ba81bb2246c1959a5292ed865ceb",
+            "uuid": "2c1f26d7a3ea4fd5b18e92b81f0cc531"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "HDR-F-2.54_1X6",
+          "PWR2",
+          {
+            "Supplier Part": "C40877",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x6",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "200",
+          6,
+          "0805",
+          "R2,R3,R4,R5,R6,R7",
+          {
+            "catid": "20",
+            "description": "RES-09883",
+            "Contributor": "SparkFun",
+            "Manufacturer Part": "?",
+            "puuid": "5e96ab692300474a87ae4f7536b3a500",
+            "uuid": ""
+          }
+        ],
+        [
+          "0.22OHM-1_4W-1%(0805)",
+          1,
+          "0805",
+          "R8",
+          {
+            "catid": "20",
+            "description": "RES-09883",
+            "Contributor": "SparkFun",
+            "Manufacturer Part": "?",
+            "puuid": "5e96ab692300474a87ae4f7536b3a500",
+            "uuid": ""
+          }
+        ],
+        [
+          "Button1",
+          1,
+          "SMD PUSH BUTTON",
+          "S1",
+          {
+            "catid": "20",
+            "sourceId": "K60iAuM3l",
+            "timeStamp": "1459264135",
+            "Manufacturer Part": "?",
+            "puuid": "3a4df0e7cc0845d0ade432b3cbacbd18",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA328P-PU",
+          1,
+          "DIP-28_300MIL",
+          "U2",
+          {
+            "catid": "20",
+            "sourceId": "Oic6oiASL",
+            "timeStamp": "1451725987",
+            "Supplier": "LCSC",
+            "Manufacturer": "ATMEL",
+            "Manufacturer Part": "ATMEGA328P-PU",
+            "Supplier Part": "C33901",
+            "puuid": "d6e76d1637f250acbf10e592820f510b",
+            "uuid": ""
+          }
+        ],
+        [
+          "FT232RLSSOP",
+          1,
+          "SSOP28DB",
+          "U4",
+          {
+            "description": "USB UART",
+            "Contributor": "SparkFun",
+            "Manufacturer Part": "?",
+            "puuid": "fd6af3d2f5e44481a503a25ce2456474",
+            "uuid": "cb4055a2f4a74f3381b4acad2a86abbc"
+          }
+        ],
+        [
+          "16MHZ",
+          1,
+          "OSC-49S-1",
+          "X1",
+          {
+            "Value": "16MHZ",
+            "Supplier": "LCSC",
+            "Manufacturer": "YXC",
+            "Manufacturer Part": "X49SD16MSD2SC",
+            "Supplier Part": "C16212",
+            "puuid": "9e66a28de3c308c96662067422971a31",
+            "uuid": "ee180ebb8a774c1c828df359787f4f74"
+          }
+        ]
+      ],
+      "updateTime": 1700852413,
+      "createTime": 1700416991,
+      "histories": [],
+      "created_at": "2023-11-19 19:03:11",
+      "updated_at": "2023-11-24 20:00:13"
+    },
+    {
+      "uuid": "cd9e9427c882af8943d13e4f1800e12e",
+      "puuid": "79cd68b4c31dc9c4d2cca4d82c975f7a",
+      "title": "PCB_Arduino__UNO",
+      "filename": "PCB_Arduino__UNO.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5363975b6427dff787dd00c04f1fa455": 1,
+        "6ff3078e544561a7c799cdd7583a2457": 1,
+        "78b4a04eb7c6085d9b4803fe2a814984": 1,
+        "dad19771f8844ca6b534068aacaeee06": 5,
+        "9978224e56bb4210bed35a36cc944f8a": 1,
+        "928e1e5a88724d78a8e96de4af4d2cc0": 1,
+        "29971ab8ddfb4d2c9191f8ca6c734b2e": 3,
+        "d576ba81bb2246c1959a5292ed865ceb": 1,
+        "e86d43893d914130bd34765c00ed5f63": 1,
+        "5e96ab692300474a87ae4f7536b3a500": 7,
+        "3a4df0e7cc0845d0ade432b3cbacbd18": 1,
+        "d6e76d1637f250acbf10e592820f510b": 1,
+        "fd6af3d2f5e44481a503a25ce2456474": 1,
+        "9e66a28de3c308c96662067422971a31": 1
+      },
+      "BOM": [],
+      "updateTime": 1701015323,
+      "createTime": 1700852908,
+      "histories": [],
+      "created_at": "2023-11-24 20:08:28",
+      "updated_at": "2023-11-26 17:15:23"
+    }
+  ],
+  "sort": [],
+  "title": "Arduino UNO HuHu tecnologies",
+  "foldername": "Arduino UNO HuHu tecnologies",
+  "schfilename": "Arduino UNO HuHu tecnologies.json",
+  "schfilemtime": 1700852413600
+}
